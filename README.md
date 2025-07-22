@@ -36,6 +36,15 @@ Here's a look at what's planned for the future of PlanIt:
 
 ---
 
+##  Screenshots
+<img width="234.67" height="495.67" alt="Screen2" src="https://github.com/user-attachments/assets/e03af5a2-ba54-412c-a732-6648d54e3ff9" />
+<img width="234.67" height="495.67"  alt="Screen3" src="https://github.com/user-attachments/assets/495d2186-d61a-42bf-8830-3e10375e49eb" />
+<img width="234.67" height="495.67"  alt="Screen4" src="https://github.com/user-attachments/assets/0b002603-a974-4652-866e-2b0933f5bb13" />
+<img width="234.67" height="495.67" alt="Screen1" src="https://github.com/user-attachments/assets/8a6911fa-b716-4276-8a0b-393534f8390a" />
+<img width="234.67" height="495.67"  alt="Screen5" src="https://github.com/user-attachments/assets/3f184564-a16c-481f-ac6d-a0dd0f965d2e" />
+<img width="234.67" height="495.67" alt="Screen6" src="https://github.com/user-attachments/assets/10f0964a-da51-44a7-8a55-ad94ffaf9209" />
+
+
 ##  Tech Stack & Architecture
 
 This project is built with a modern, scalable, and maintainable architecture.
