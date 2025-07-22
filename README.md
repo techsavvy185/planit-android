@@ -54,7 +54,7 @@ This project is built with a modern, scalable, and maintainable architecture.
 
 ---
 ##  Author
-[@techsavvy!85](https://github.com/techsavvy185)
+[@techsavvy185](https://github.com/techsavvy185)
 
 
 ##  Getting Started
