@@ -1,5 +1,7 @@
 #  PlanIt - The Intelligent Daily Planner
-
+<p align="center">
+<img width="250" height="250" alt="PlanIt Logo" src="https://github.com/user-attachments/assets/8b0d2c15-67ad-4f56-a459-d0c51865689c" />
+</p>
 **PlanIt** is a modern, feature-rich daily planner application for Android, designed to be your all-in-one companion for organizing your life. Built entirely with Kotlin and the latest Jetpack libraries, this project serves as a showcase of modern Android development architecture and best practices.
 
 The app provides a clean, intuitive, and dynamic user interface built with Jetpack Compose, focusing on a seamless user experience.
