@@ -70,4 +70,4 @@ Simply clone the repository and open it in Android Studio. The project uses Grad
 
 
 ```bash
-git clone [https://github.com/techsavvy185/planit-android-app.git](https://github.com/techsavvy185/planit-android-app.git)
+git clone https://github.com/techsavvy185/planit-android-app.git
